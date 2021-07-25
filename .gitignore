@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.PcbLib.Zip
+*.SCHLIB.Zip
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.PrjPcb.Zip
+*.Log
