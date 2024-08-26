@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : \\vmware-host\Shared Folders\обть\stc89le_pcb\STC89LE.PcbDoc
-Date     : 2021/8/2
-Time     : 11:17:16
+PCB File : D:\Lab\stc89le_pcb\STC89LE.PcbDoc
+Date     : 2024/8/26
+Time     : 12:15:13
 
 Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
 Rule Violations :0
@@ -27,10 +27,10 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.04mm) (HasFootprint('8P4R 0603')),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.09mm) (HasFootprint('LQFP44')),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.09mm) (HasFootprint('LQFP44')),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.04mm) (HasFootprint('8P4R 0603')),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.04mm) (HasFootprint('USB-micro_B')),(All)
@@ -45,13 +45,13 @@ Rule Violations :0
 Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (HasFootprint('USB-micro_B')),(All)
 Rule Violations :0
 
+Processing Rule : Silk to Silk (Clearance=0.1mm) (HasFootprint('SOT23-3-MOS')),(All)
+Rule Violations :0
+
 Processing Rule : Silk to Silk (Clearance=0.1mm) (HasFootprint('SOT23-3-BJT')),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=0.1mm) (HasFootprint('SOT23-3-MOS')),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
@@ -63,4 +63,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
